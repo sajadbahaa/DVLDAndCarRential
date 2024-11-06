@@ -1,0 +1,13 @@
+D:\Projects\ProjectDrivingLicense\DvlcWindows\ctrlDriverCardWithFilter\bin\Debug\ctrlDriverCardWithFilter.dll
+D:\Projects\ProjectDrivingLicense\DvlcWindows\ctrlDriverCardWithFilter\bin\Debug\ctrlDriverCardWithFilter.pdb
+D:\Projects\ProjectDrivingLicense\DvlcWindows\ctrlDriverCardWithFilter\obj\Debug\ctrlDriverCardWithFilter.csproj.AssemblyReference.cache
+D:\Projects\ProjectDrivingLicense\DvlcWindows\ctrlDriverCardWithFilter\obj\Debug\ctrlDriverCardWithFilter.csproj.GenerateResource.cache
+D:\Projects\ProjectDrivingLicense\DvlcWindows\ctrlDriverCardWithFilter\obj\Debug\ctrlDriverCardWithFilter.csproj.CoreCompileInputs.cache
+D:\Projects\ProjectDrivingLicense\DvlcWindows\ctrlDriverCardWithFilter\obj\Debug\ctrlDriverCardWithFilter.dll
+D:\Projects\ProjectDrivingLicense\DvlcWindows\ctrlDriverCardWithFilter\obj\Debug\ctrlDriverCardWithFilter.pdb
+D:\Projects\ProjectDrivingLicense\DvlcWindows\ctrlDriverCardWithFilter\bin\Debug\clsPeople.dll
+D:\Projects\ProjectDrivingLicense\DvlcWindows\ctrlDriverCardWithFilter\bin\Debug\DvlcDataLayer.dll
+D:\Projects\ProjectDrivingLicense\DvlcWindows\ctrlDriverCardWithFilter\bin\Debug\clsPeople.pdb
+D:\Projects\ProjectDrivingLicense\DvlcWindows\ctrlDriverCardWithFilter\bin\Debug\DvlcDataLayer.pdb
+D:\Projects\ProjectDrivingLicense\DvlcWindows\ctrlDriverCardWithFilter\obj\Debug\ctrlDriv.6817659E.Up2Date
+D:\Projects\ProjectDrivingLicense\DvlcWindows\ctrlDriverCardWithFilter\obj\Debug\ctrlDriverCardWithFilter.ctrlDriverWithFilter.resources

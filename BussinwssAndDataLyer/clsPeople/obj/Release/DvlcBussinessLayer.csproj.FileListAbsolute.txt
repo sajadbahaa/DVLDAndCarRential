@@ -1,0 +1,11 @@
+D:\Projects\ProjectDrivingLicense\DvlcWindows\BussinwssAndDataLyer\clsPeople\bin\Release\clsPeople.dll
+D:\Projects\ProjectDrivingLicense\DvlcWindows\BussinwssAndDataLyer\clsPeople\bin\Release\clsPeople.pdb
+D:\Projects\ProjectDrivingLicense\DvlcWindows\BussinwssAndDataLyer\clsPeople\bin\Release\DvlcDataLayer.dll
+D:\Projects\ProjectDrivingLicense\DvlcWindows\BussinwssAndDataLyer\clsPeople\bin\Release\DvlcDataLayer.pdb
+D:\Projects\ProjectDrivingLicense\DvlcWindows\BussinwssAndDataLyer\clsPeople\obj\Release\DvlcBussinessLayer.csproj.AssemblyReference.cache
+D:\Projects\ProjectDrivingLicense\DvlcWindows\BussinwssAndDataLyer\clsPeople\obj\Release\clsPeople.Properties.Resources.resources
+D:\Projects\ProjectDrivingLicense\DvlcWindows\BussinwssAndDataLyer\clsPeople\obj\Release\DvlcBussinessLayer.csproj.GenerateResource.cache
+D:\Projects\ProjectDrivingLicense\DvlcWindows\BussinwssAndDataLyer\clsPeople\obj\Release\DvlcBussinessLayer.csproj.CoreCompileInputs.cache
+D:\Projects\ProjectDrivingLicense\DvlcWindows\BussinwssAndDataLyer\clsPeople\obj\Release\DvlcBuss.E547517B.Up2Date
+D:\Projects\ProjectDrivingLicense\DvlcWindows\BussinwssAndDataLyer\clsPeople\obj\Release\clsPeople.dll
+D:\Projects\ProjectDrivingLicense\DvlcWindows\BussinwssAndDataLyer\clsPeople\obj\Release\clsPeople.pdb

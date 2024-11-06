@@ -1,0 +1,6 @@
+D:\Projects\ProjectDrivingLicense\DvlcWindows\BussinwssAndDataLyer\DvlcDataLayer\bin\Release\DvlcDataLayer.dll
+D:\Projects\ProjectDrivingLicense\DvlcWindows\BussinwssAndDataLyer\DvlcDataLayer\bin\Release\DvlcDataLayer.pdb
+D:\Projects\ProjectDrivingLicense\DvlcWindows\BussinwssAndDataLyer\DvlcDataLayer\obj\Release\DvlcDataLayer.csproj.AssemblyReference.cache
+D:\Projects\ProjectDrivingLicense\DvlcWindows\BussinwssAndDataLyer\DvlcDataLayer\obj\Release\DvlcDataLayer.csproj.CoreCompileInputs.cache
+D:\Projects\ProjectDrivingLicense\DvlcWindows\BussinwssAndDataLyer\DvlcDataLayer\obj\Release\DvlcDataLayer.dll
+D:\Projects\ProjectDrivingLicense\DvlcWindows\BussinwssAndDataLyer\DvlcDataLayer\obj\Release\DvlcDataLayer.pdb
